@@ -1,3 +1,5 @@
+// asked to reverse those words in a string whose starting index starts with fibonacci number
+
 string = my name is eshan
 
 int fib(int n)
@@ -22,7 +24,8 @@ int main()
 	}
 }
 
-
+//solve the series
 series = 7,13,25,45,75
 6,12,20,30 ->6,8,10,12
+// 4*2+3,11*2-3,19*2+3,41*2-3
 series =4,11,19,41,_ ,161
